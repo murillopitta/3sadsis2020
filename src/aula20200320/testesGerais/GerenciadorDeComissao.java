@@ -23,6 +23,5 @@ public class GerenciadorDeComissao {
 		}
 		return calcularComissaoPadrao(valorDaVenda,percentualDeComissao);
 	}
-		
 }
 	
